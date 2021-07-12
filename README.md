@@ -1,4 +1,5 @@
 # EDA
+ DATA SET- GOODREADS_100k BOOKS
 This data set includes 100k Book_data, including their author, book format, desc, genre, img, isbn, isbn13, link, pages, rating, reviews, title and total rating. It can be useful for bookstores and avid readers.
 
 
